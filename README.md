@@ -1,5 +1,5 @@
 # Jungle Tic Tac Toe
-!(preview.png)
+![preview](preview.png)
 A classic Tic Tac Toe game with a jungle and Minecraft inspired design, built with plain HTML, CSS and JavaScript. No frameworks, no build tools, just open the file and play.
 
 You play as O and the computer plays as X. And here is the honest truth: you will not beat it.
