@@ -13,3 +13,7 @@ The computer is powered by the minimax algorithm. On every single move, it looks
 - If neither is available, it moves you toward a position where your best case is a draw
 
 Because of this, the absolute best result a human can get against this game is a tie. Winning is mathematically impossible. Do not feel bad about it, that is just what minimax does. Try it as many times as you want, it will not slip up.
+
+Anyone can Try to Beat it here:
+
+https://davidx-004.github.io/Unbeatable-TIK-TAK-TOE/
